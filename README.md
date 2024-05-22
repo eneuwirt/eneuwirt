@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- DE | I live near Munich, Germany
+- :de: I live near Munich, Germany
 - :dog: I love pet-projects. They help me grow professionally all my life.
 
 ## 🛠 My badge area
