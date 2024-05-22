@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :de: I live near Munich, Germany
-- :dog: I love pets and pet-projects. They help me in my daily professional and privite life
+- :dog: I love pets and pet-projects. They help me in my daily professional and private life
 - 🔭 I’m currently working on a cost management system for indirect materials (yes, it is my hobby)
 
 ## 🛠 My badge area
