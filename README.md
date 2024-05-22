@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Eduard Neuwirt
 
 <!--
 **eneuwirt/eneuwirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+DE | I live near Munich, Germany
+🚀 I love pet-projects. They help me grow professionally all my life.
+
+## 🛠 My badge area
+![image](https://github.com/eneuwirt/eneuwirt/assets/703198/aeb9570b-a722-4987-a93d-49682c7b5fb8)
+
