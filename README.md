@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 DE | I live near Munich, Germany
-
 🚀 I love pet-projects. They help me grow professionally all my life.
 
 ## 🛠 My badge area
