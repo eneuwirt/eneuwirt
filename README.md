@@ -18,5 +18,7 @@ DE | I live near Munich, Germany
 🚀 I love pet-projects. They help me grow professionally all my life.
 
 ## 🛠 My badge area
-![image](https://github.com/eneuwirt/eneuwirt/assets/703198/aeb9570b-a722-4987-a93d-49682c7b5fb8)
+![image](https://github.com/eneuwirt/eneuwirt/assets/703198/aeb9570b-a722-4987-a93d-49682c7b5fb8)![image](https://github.com/eneuwirt/eneuwirt/assets/703198/179aecd5-d31e-49da-aba7-d08c8ad91626)![image](https://github.com/eneuwirt/eneuwirt/assets/703198/79ece3c4-4a44-488a-8840-f9493ce50a1b)
+
+
 
