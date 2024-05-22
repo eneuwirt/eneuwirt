@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :de: I live near Munich, Germany
-- :dog: I love pets and pet-projects. They help me in my daily professional and prvita live
-- 🔭 I’m currently working on cost management system for indirect materials (yes, it is my hobby)
+- :dog: I love pets and pet-projects. They help me in my daily professional and prvite life
+- 🔭 I’m currently working on a cost management system for indirect materials (yes, it is my hobby)
 
 ## 🛠 My badge area
 ![image](https://github.com/eneuwirt/eneuwirt/assets/703198/2e39e2f6-b427-4b63-969c-1feb01965e15)
