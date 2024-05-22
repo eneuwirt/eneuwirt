@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cost management system for indirect materials (yes, it is my hobby)
 
 ## 🛠 My badge area
-![image](https://github.com/eneuwirt/eneuwirt/assets/703198/9d637552-791e-4517-93fa-52d8cd5574e5)![image](https://github.com/eneuwirt/eneuwirt/assets/703198/bf5b9cf8-11d4-4d6b-a153-89f6ddd4b69b)
+![image](https://github.com/eneuwirt/eneuwirt/assets/703198/a9fa977a-5f5f-4699-b196-d54b36136bd0)
+
 
 
 
